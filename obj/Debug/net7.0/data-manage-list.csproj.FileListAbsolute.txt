@@ -1,0 +1,15 @@
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.csproj.AssemblyReference.cache
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.AssemblyInfoInputs.cache
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.AssemblyInfo.cs
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\data-manage-list\bin\Debug\net7.0\data-manage-list.exe
+C:\Users\Mariusz\Desktop\data-manage-list\bin\Debug\net7.0\data-manage-list.deps.json
+C:\Users\Mariusz\Desktop\data-manage-list\bin\Debug\net7.0\data-manage-list.runtimeconfig.json
+C:\Users\Mariusz\Desktop\data-manage-list\bin\Debug\net7.0\data-manage-list.dll
+C:\Users\Mariusz\Desktop\data-manage-list\bin\Debug\net7.0\data-manage-list.pdb
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.dll
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\refint\data-manage-list.dll
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.pdb
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\data-manage-list.genruntimeconfig.cache
+C:\Users\Mariusz\Desktop\data-manage-list\obj\Debug\net7.0\ref\data-manage-list.dll
